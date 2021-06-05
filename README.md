@@ -31,5 +31,8 @@ ___C++ Language___
   + Introduction to Python 
   + Functions in Python
 # How to Access Online Images
-<img src="https://www.stonedsanta.in/wp-content/uploads/2019/06/Sapphiric-Mandala-Art-Notebook-with-Canary-tones.jpeg height=500px width=500px">
-# How to acess Offline images
+<img src="https://www.stonedsanta.in/wp-content/uploads/2019/06/Sapphiric-Mandala-Art-Notebook-with-Canary-tones.jpeg">
+
+# How to access links
+
+[gmail](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
